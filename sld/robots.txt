@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow: /404.html
+Disallow: /contact-facebook.html
+Disallow: /404
+Disallow: /contact-facebook
+Disallow: /forms/data-deletion
+Disallow: /forms/data-deletion.html
+Disallow: /store
+Disallow: /store.html
+Disallow: /terms/privacy
+Disallow: /terms/privacy.html
+Disallow: /terms/returns
+Disallow: /terms/returns.html
+Disallow: /terms/terms-conditions
+Disallow: /terms/terms-conditions.html
+Disallow: /track
+Disallow: /track.html
+
+Sitemap: https://nathan3dprinting.business/sitemap.xml

@@ -1,0 +1,74 @@
+----------
+
+Sun Feb 13 2022 12:18:36 GMT+1100 (Australian Eastern Daylight Time)
+
+
+
+
+----------
+
+Sun Feb 13 2022 12:18:36 GMT+1100 (Australian Eastern Daylight Time)
+
+Unhandled Exception: 
+
+----------
+
+Sun Feb 13 2022 12:18:36 GMT+1100 (Australian Eastern Daylight Time)
+
+System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Edit_Sitemap.Program.Main(String[] args) in D:\Users\Nathan\Documents\Visual Studio 2019\Projects\Edit Sitemap\Edit Sitemap\Program.cs:line 39
+
+
+----------
+
+Sun Feb 13 2022 12:38:17 GMT+1100 (Australian Eastern Daylight Time)
+
+
+Unhandled Exception: 
+
+----------
+
+Sun Feb 13 2022 12:38:17 GMT+1100 (Australian Eastern Daylight Time)
+
+System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Edit_Sitemap.Program.Main(String[] args) in D:\Users\Nathan\Documents\Visual Studio 2019\Projects\Edit Sitemap\Edit Sitemap\Program.cs:line 39
+
+
+----------
+
+Sun Feb 13 2022 16:39:24 GMT+1100 (Australian Eastern Daylight Time)
+
+
+Unhandled Exception: 
+
+----------
+
+Sun Feb 13 2022 16:39:24 GMT+1100 (Australian Eastern Daylight Time)
+
+System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Edit_Sitemap.Program.Main(String[] args) in D:\Users\Nathan\Documents\Visual Studio 2019\Projects\Edit Sitemap\Edit Sitemap\Program.cs:line 39
+
+
+----------
+
+Sun Feb 13 2022 16:42:29 GMT+1100 (Australian Eastern Daylight Time)
+
+
+Unhandled Exception: 
+
+----------
+
+Sun Feb 13 2022 16:42:29 GMT+1100 (Australian Eastern Daylight Time)
+
+System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Edit_Sitemap.Program.Main(String[] args) in D:\Users\Nathan\Documents\Visual Studio 2019\Projects\Edit Sitemap\Edit Sitemap\Program.cs:line 39
+
+
